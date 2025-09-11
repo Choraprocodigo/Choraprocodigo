@@ -1,0 +1,51 @@
+html{
+    background-image: url(img/fundo\ do\ login.jfif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+label{
+    background-color: red;
+    background-position: center;
+    border: 15px color(srgb black);
+    display: flex;
+    font-size: 25px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+body{
+    background-position: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+  
+}
+
+input{
+    background-position: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 30px;
+    border-color: darkred;
+    border-width: 10px;
+    border-radius: 50px;
+    text-align: center;
+}
+
+h1{
+    background-position: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-size: 50px;
+   
+}
+br{
+    background-position: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
